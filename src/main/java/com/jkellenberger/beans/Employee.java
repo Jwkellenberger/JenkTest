@@ -6,7 +6,7 @@ public class Employee {
 	private String lastName;
 	private String title;
 	private String login;
-	private String pw;
+	private String pw; 
 	private int managerId;
 	private Employee managerObj;
 	private Employee headObj;
